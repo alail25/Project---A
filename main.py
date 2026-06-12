@@ -28,4 +28,4 @@ async def fox(ctx):
 
     await ctx.send(embed=embed)
 
-bot.run("Y")
+bot.run("Your_Bot_Token")
